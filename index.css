@@ -1,0 +1,32 @@
+body {
+font-family: "Palatino Linotype", sans-serif;
+ font-size:16px;
+line-height:1.5;
+background: #eef;
+text-align:justify;
+}
+h1 {
+font-family: "Merriweather", serif;
+font-size:48;
+color:blue;
+text-align:center;
+text-transparent:uppercase;
+
+}
+img{
+	width:25;
+	float:left;
+	clear:both;
+}
+article, aside, footer, header, menu, nav, section {
+display: block;
+} 
+article,section{
+	margin:20px;
+}
+images, nav, texts, aside{
+	padding:2;
+}
+nav{
+	float:right;
+}
